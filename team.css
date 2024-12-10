@@ -1,0 +1,22 @@
+h1{
+    border: 20px red;
+    border-radius: 20px;
+}
+body{
+    text-align: center;
+    background-color: slateblue;
+}
+p{
+    font-size: 20px;
+    color: white;
+}
+h2{
+    border: 10px black;
+    border-radius: 10px ;
+}
+button{
+    font-size: 25px;
+    color: aliceblue;
+    background-color: grey;
+    border-radius: 25px;
+}
